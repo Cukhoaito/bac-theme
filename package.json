@@ -1,0 +1,36 @@
+{
+  "name": "bac-theme",
+  "displayName": "Bac Theme",
+  "description": "My custom theme",
+  "version": "1.0.0",
+  "publisher": "NgoXuanBac",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Cukhoaito/bac-theme.git"
+  },
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "bactheme",
+    "bac theme",
+    "vung theme",
+    "vungtheme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "sieucapvodichvutru",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sieucapvodichvutru.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "vsce": "^2.15.0"
+  }
+}
