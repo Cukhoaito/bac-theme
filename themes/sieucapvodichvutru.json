@@ -1088,10 +1088,8 @@
 		"editor.foreground": "#c8d3f5",
 		"editor.lineHighlightBackground": "#2f334d",
 		"editor.selectionBackground": "#828bb850",
-		// "editor.selectionHighlightBackground": "#444a73",
 		"editor.findMatchBackground": "#444a73",
 		"editor.findMatchBorder": "#78dbff",
-		// "editor.findMatchHighlightBackground": "#444a73",
 		"editorInlayHint.foreground": "#828bb8",
 		"editorInlayHint.background": "#2f334d",
 		"editorOverviewRuler.findMatchForeground": "#78dbffbb",
@@ -1137,7 +1135,7 @@
 		"titleBar.activeForeground": "#c8d3f5",
 		"titleBar.inactiveBackground": "#1e2030",
 		"titleBar.inactiveForeground": "#828bb8",
-		"sideBar.background": "#1e2030",
+		"sideBar.background": "#232639",
 		"sideBar.foreground": "#828bb8",
 		"sideBar.border": "#191a2a",
 		"titleBar.border": "#191a2a",
@@ -1209,7 +1207,6 @@
 		"widget.shadow": "#00000033",
 		"panel.border": "#00000033",
 		"panel.background": "#1e2030",
-		// "panel.dropBackground": "#c8d3f5",
 		"panelTitle.inactiveForeground": "#828bb8",
 		"panelTitle.activeForeground": "#c8d3f5",
 		"panelTitle.activeBorder": "#7cafff",
@@ -1244,7 +1241,6 @@
 		"gitDecoration.modifiedResourceForeground": "#7cafffee",
 		"gitDecoration.untrackedResourceForeground": "#7af8cacc",
 		"gitDecoration.ignoredResourceForeground": "#777fabaa",
-		// "gitlens.trailingLineForegroundColor": "#828bb8aa",
 		"editorCodeLens.foreground": "#828bb8",
 		"peekViewResult.selectionBackground": "#828bb870",
 		"breadcrumb.background": "#222436",
@@ -1254,8 +1250,8 @@
 		"breadcrumbPicker.background": "#1e2030",
 		"menu.background": "#1e2030",
 		"menu.foreground": "#c8d3f5",
-		"menu.selectionBackground": "#00000050",
-		"menu.selectionForeground": "#7cafff",
+		"menu.selectionBackground": "#2f334d",
+		"menu.selectionForeground": "#c8d3f5",
 		"menu.selectionBorder": "#00000030",
 		"menu.separatorBackground": "#c8d3f5",
 		"menubar.selectionBackground": "#00000030",
@@ -1276,4 +1272,4 @@
 		"settings.checkboxForeground": "#c8d3f5",
 		"settings.checkboxBorder": "#00000066"
 	}
-} 
+}
