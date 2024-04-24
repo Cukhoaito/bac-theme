@@ -2,7 +2,7 @@
   "name": "bac-theme",
   "displayName": "Bac Theme",
   "description": "My custom theme",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "publisher": "NgoXuanBac",
   "icon": "images/icon.png",
   "repository": {
@@ -25,9 +25,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "sieucapvodichvutru",
+        "label": "thanhlichtaonha",
         "uiTheme": "vs-dark",
-        "path": "./themes/sieucapvodichvutru.json"
+        "path": "./themes/thanhlichtaonha.json"
+      },
+      {
+        "label": "buibambanthiu",
+        "uiTheme": "vs-dark",
+        "path": "./themes/buibambanthiu.json"
       }
     ]
   },
